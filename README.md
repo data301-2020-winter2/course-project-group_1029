@@ -28,4 +28,6 @@ The original purpose of this dataset was to predict whether an individuals incom
 
 ## References
 
-{Add your stuff here}
+https://archive.ics.uci.edu/ml/datasets/adult
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
