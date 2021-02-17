@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: Hello! My name is Amrita, and I am a 3rd Year Comp Sci. Major 
+- Person 1: Hello! My name is Amrita, and I am a 3rd Year Comp Sci. Major
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
