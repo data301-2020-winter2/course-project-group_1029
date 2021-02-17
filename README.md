@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Our topic for this project is Adult incomes. With this analytics project, we hope to understand the varying patterns in adult incomes. This data is based on census data. This means that this data source is a specific population that the government systemically acquired. We are interested in this dataset because it gives us a general idea of adult incomes and their span. Also, we will be able to predict if income surpasses $50K per year. As of now, we do not have any specific questions about this dataset. We think that as we continue on with this project, some questions might arise that we would be curious to explore. Yes, we can imagine building a user-facing dashboard with this dataset. 
 
 ## Describe your dataset in about 150-200 words
 
