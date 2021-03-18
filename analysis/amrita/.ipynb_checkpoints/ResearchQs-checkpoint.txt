@@ -1,0 +1,6 @@
+Research Question: 
+
+1) We wanted to see the correlation between the amount of Education individuals have in this dataset, like how educated this test sample individuals were:
+
+Based on our plots, we see that almost all individuals have education levels that are more than just high school. So most of them have completed higher education. 
+
