@@ -25,8 +25,9 @@ def load_process(url_or_path_to_csv_file):
         .rename(columns= {' Male': 'Sex'})
         .rename(columns= {' 40': 'Hours/Week'})
         .rename(columns= {' United-States': 'Native Country'})
+        .rename(columns= {' <=50K': 'Salary'})
     )
     
-  
+    #data_to_csv(r"C:\Users\Amrita\Desktop\Data301\course-project-group_1029\data\raw\adult.data")
     return data2
   
