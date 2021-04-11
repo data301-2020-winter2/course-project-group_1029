@@ -28,6 +28,9 @@ def load_process(url_or_path_to_csv_file):
         .rename(columns= {' <=50K': 'Salary'})
     )
     
-    #data_to_csv(r"C:\Users\Amrita\Desktop\Data301\course-project-group_1029\data\raw\adult.data")
+    #data_to_csv(r"C:\Users\Amrita\Desktop\Data301\course-project-group_1029\data\raw\adult.csv")
     return data2
+
+    
+    
   
